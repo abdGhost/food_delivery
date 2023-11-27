@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   simple_animations: ^5.0.2
   page_indicator: ^0.4.1
+  page_animation_transition: ^1.0.0
 
 dev_dependencies:
   flutter_test:
